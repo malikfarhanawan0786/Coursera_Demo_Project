@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "419509742377",
+    "project_id": "globe-pulse",
+    "storage_bucket": "globe-pulse.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419509742377:android:26e30a0baee29c5c372538",
+        "android_client_info": {
+          "package_name": "com.globepulse.globe_pulse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZh45jzMuzHBoOXJIbRbrTV2dZwEDtzFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
